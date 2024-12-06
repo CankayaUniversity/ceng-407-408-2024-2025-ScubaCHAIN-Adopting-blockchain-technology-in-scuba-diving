@@ -18,3 +18,7 @@ This project focuses on developing a Blockchain-based system to securely manage 
 
 ### Advisor
 * Gül TOKDEMİR
+
+### Co Advisor 
+* Alper ATEŞ
+* Mustafa Bilal DEMİRKAN
