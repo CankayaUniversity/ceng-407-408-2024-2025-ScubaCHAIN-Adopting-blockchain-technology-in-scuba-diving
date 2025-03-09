@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.4.7",
+    "puppeteer": "^23.11.1",
+    "web3": "^1.2.11"
+  }
+}
